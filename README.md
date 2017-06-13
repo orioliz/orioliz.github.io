@@ -1,12 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/orioliz/orioliz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Esto es solo una practica del Modulo de M8 en el Ciclo Formativo DAW (2017) Creado por **bold Oriol Izquierdo Vibalda.** 
+Blog creado con **bold GitHub Pages **.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://s-media-cache-ak0.pinimg.com/originals/a9/37/f5/a937f5bc08205b4e85f1ad726130b4a9.jpg)
 
 ```markdown
 Syntax highlighted code block
